@@ -1,0 +1,8 @@
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe.config
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.exe
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\bin\Debug\CursoCSharp.pdb
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.exe
+C:\Users\manoa\source\repos\CursoCSharp\CursoCSharp\obj\Debug\CursoCSharp.pdb
