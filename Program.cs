@@ -9,6 +9,7 @@ using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.Api;
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -17,6 +18,7 @@ namespace CursoCSharp
         static void Main(string[] args)
         {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+                // Fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentários - Fundamentos", Comentarios.Executar },
                 {"Variais e Constantes - Fundamentos", VariaveisEConstantes.Executar },
@@ -97,6 +99,20 @@ namespace CursoCSharp
                 
                 // Api
                 { "Primeiro Arqueivo usando Api - Api",PrimeiroArquivo.Executar},
+                { "Lendo Arquivos - Api",LendoArquivo.Executar},
+                { "Exemplo File Info - Api",ExemploFileInfo.Executar},
+                { "Diretórios - Api",Diretorios.Executar},
+                { "Exemplo DirectoryInfo - Api",ExemploDirectyInfo.Executar},
+                { "Exemplo Path - Api",ExemploPath.Executar},
+                { "Exemplo DateTime - Api",ExemploDateTime.Executar},
+                { "Exemplo Timespan - Api",ExemploTimeSpan.Executar},
+
+                // Tópicos Avançados
+                { "LINQ #01 - Tópicos Avançados",LINQ1.Executar},
+                { "LINQ #02 - Tópicos Avançados",LINQ2.Executar},
+                { "Nullables - Tópicos Avançados",Nullables.Executar},
+                { "Dynamics - Tópicos Avançados",Dynamics.Executar},
+                { "Generics - Tópicos Avançados",Genericos.Executar},
             });
 
             central.SelecionarEExecutar();
